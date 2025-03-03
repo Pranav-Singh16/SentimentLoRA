@@ -1,5 +1,3 @@
-# SentimentLoRA
-
 # LoRA Text Classification
 
 A parameter-efficient fine-tuning implementation for sentiment analysis using LoRA (Low-Rank Adaptation) on the IMDB dataset.
